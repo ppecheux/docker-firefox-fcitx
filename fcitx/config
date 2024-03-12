@@ -1,0 +1,8 @@
+IMList=fcitx-keyboard-us,fcitx-pinyin
+TriggerKey=CTRL_SPACE
+# Use extra trigger key only after using it to inactivate
+# Available Value:
+# True False
+UseExtraTriggerKeyOnlyWhenUseItToInactivate=True
+# Extra key for trigger input method
+L_SHIFT
